@@ -10,7 +10,7 @@ Variable name    | Description
 -----------------|------------
 subject          | ID the subject who performed the activity for each window sample. Its range is from 1 to 30.
 activity         | Activity name
-All other vars   | Mean values of the features measured
+All other vars   | Mean or standard deviation values of the features measured
    
 List the  features in the data frame
 ----------------------------------------
